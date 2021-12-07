@@ -32,8 +32,7 @@ const firebaseConfig = {
 };
 
 
-// Initialize Firebase
-
+// Initialize 
 const app = initializeApp(firebaseConfig);
 
 const analytics = getAnalytics(app);
